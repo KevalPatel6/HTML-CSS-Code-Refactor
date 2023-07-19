@@ -56,7 +56,7 @@ p {
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center; 
 }
 
 .float-left {
@@ -173,17 +173,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
