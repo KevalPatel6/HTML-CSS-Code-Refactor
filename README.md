@@ -8,7 +8,11 @@ This repository is for the Module 1 Challenge that involves refactoring HTML and
 
 Below you can see a screenshot of a side-by-side comparison of the original code base with predominantly div tags (left) and the refactored code base with proper HTML semantic elements (right). From this screenshot you can see how incorporating proper HTML semantic elements into your code can organize it so that it makes it easier to read and understand for not only yourself but others reading your code. 
 
-<img src="./assets/images/Usage.PNG" alt="screenshot of two coding windows showing HTML code">
+<img src="./assets/images/Usage-1-HTML.PNG" alt="screenshot of two coding windows showing HTML code">
+
+Again, from this screen shot below you can a side-by-side comparison of the original CSS code base (left) and the CSS code base after class selectors were grouped together to reduce repetitive code (right). 
+
+<img src="./assets/images/Usage-2-CSS.PNG>" alt="screenshot of two coding windows showing CSS code"
 
 ## License
 
